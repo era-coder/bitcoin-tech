@@ -29,3 +29,7 @@ SMART CONTRACT
 1- https://rgb-org.github.io/
 
 2- https://www.rgbfaq.com/
+
+#DLC
+
+#RSK

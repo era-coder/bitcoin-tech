@@ -22,6 +22,12 @@ do PR to add more
 
 2- http://mercurywallet.com/
 
+#elments 
+
+1- https://elementsproject.org/
+
+2- https://liquid.net/
+
 (SMART CONTRACT)
 
 #RGB
@@ -33,3 +39,5 @@ do PR to add more
 #DLC
 
 #RSK
+
+1- https://www.rsk.co/

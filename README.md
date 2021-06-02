@@ -22,7 +22,7 @@ do PR to add more
 
 2- http://mercurywallet.com/
 
-SMART CONTRACT 
+(SMART CONTRACT)
 
 #RGB
 

@@ -41,3 +41,12 @@ do PR to add more
 #RSK
 
 1- https://www.rsk.co/
+
+#Mint Layer 
+
+1-https://www.mintlayer.org/
+
+#DefiChain
+
+1-https://defichain.com/
+

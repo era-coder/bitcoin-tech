@@ -3,7 +3,7 @@ do PR to add more
 
 (2 Layers)
 
-#lighting network
+#Lighting Network
 
 1- https://lightning.network/
 
@@ -16,7 +16,7 @@ do PR to add more
 
 2- https://fiatjaf.alhur.es/drivechain.html
 
-#state Chains
+#State Chains
 
 1- https://medium.com/@RubenSomsen/statechains-non-custodial-off-chain-bitcoin-transfer-1ae4845a4a39
 

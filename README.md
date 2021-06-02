@@ -20,7 +20,7 @@ do PR to add more 2 layers
 
 2- http://mercurywallet.com/
 
-#Smart contract 
+SMART CONTRACT 
 
 #RGB
 

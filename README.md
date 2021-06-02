@@ -1,4 +1,4 @@
-# bitcoin TECH 
+# Bitcoin TECH 
 do PR to add more 
 
 (2 Layers)

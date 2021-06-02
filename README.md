@@ -1,7 +1,7 @@
 # Bitcoin TECH 
 do PR to add more 
 
-(2 Layers)
+(2 LAYERS)
 
 #Lighting Network
 

@@ -42,6 +42,10 @@ do PR to add more
 
 #DLC
 
+#Liquid 
+
+1-https://liquid.net/
+
 #RSK
 
 1- https://www.rsk.co/

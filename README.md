@@ -22,6 +22,10 @@ do PR to add more
 
 2- http://mercurywallet.com/
 
+#Soft Chains 
+
+1-https://gist.github.com/RubenSomsen/7ecf7f13dc2496aa7eed8815a02f13d1
+
 #elments 
 
 1- https://elementsproject.org/

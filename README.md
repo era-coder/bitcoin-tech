@@ -26,6 +26,12 @@ do PR to add more
 
 1-https://gist.github.com/RubenSomsen/7ecf7f13dc2496aa7eed8815a02f13d1
 
+#Space Chains 
+
+1-https://medium.com/@RubenSomsen/21-million-bitcoins-to-rule-all-sidechains-the-perpetual-one-way-peg-96cb2f8ac302
+
+2-https://youtu.be/IpHNuohhSFk
+
 #elments 
 
 1- https://elementsproject.org/

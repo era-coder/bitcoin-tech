@@ -5,22 +5,22 @@ do PR to add more
 
 #Lighting Network
 
-1- https://lightning.network/
+1-https://lightning.network/
 
-2- https://en.wikipedia.org/wiki/Lightning_Network
+2-https://en.wikipedia.org/wiki/Lightning_Network
 
 
 #Drivechains
 
-1- https://www.drivechain.info/
+1-https://www.drivechain.info/
 
-2- https://fiatjaf.alhur.es/drivechain.html
+2-https://fiatjaf.alhur.es/drivechain.html
 
 #State Chains
 
-1- https://medium.com/@RubenSomsen/statechains-non-custodial-off-chain-bitcoin-transfer-1ae4845a4a39
+1-https://medium.com/@RubenSomsen/statechains-non-custodial-off-chain-bitcoin-transfer-1ae4845a4a39
 
-2- http://mercurywallet.com/
+2-http://mercurywallet.com/
 
 #Soft Chains 
 
@@ -34,17 +34,17 @@ do PR to add more
 
 #elments 
 
-1- https://elementsproject.org/
+1-https://elementsproject.org/
 
-2- https://liquid.net/
+2-https://liquid.net/
 
 (SMART CONTRACT)
 
 #RGB
 
-1- https://rgb-org.github.io/
+1-https://rgb-org.github.io/
 
-2- https://www.rgbfaq.com/
+2-https://www.rgbfaq.com/
 
 #DLC
 
@@ -54,7 +54,7 @@ do PR to add more
 
 #RSK
 
-1- https://www.rsk.co/
+1-https://www.rsk.co/
 
 #Mint Layer 
 

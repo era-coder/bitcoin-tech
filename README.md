@@ -3,6 +3,8 @@ do PR to add more
 
 (2 LAYERS)
 
+A list by Jameson lopp: https://www.lopp.net/bitcoin-information/other-layers.html
+
 #Lighting Network
 
 1-https://lightning.network/

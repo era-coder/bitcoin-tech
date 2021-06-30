@@ -28,19 +28,23 @@ A list by Jameson lopp: https://www.lopp.net/bitcoin-information/other-layers.ht
 
 1-https://gist.github.com/RubenSomsen/7ecf7f13dc2496aa7eed8815a02f13d1
 
-#Space Chains 
+#Space Chains (one way peg or mass user movement to a new chain)
 
 1-https://medium.com/@RubenSomsen/21-million-bitcoins-to-rule-all-sidechains-the-perpetual-one-way-peg-96cb2f8ac302
 
 2-https://youtu.be/IpHNuohhSFk
+
+#Sabu
+
+1-https://raymo-49157.medium.com/time-to-boost-bitcoin-circulation-million-transactions-per-second-and-privacy-1eef8568d180
+
+2-https://bitcointalk.org/index.php?topic=5344020.0
 
 #elments 
 
 1-https://elementsproject.org/
 
 2-https://liquid.net/
-
-(SMART CONTRACT)
 
 #RGB
 
@@ -61,8 +65,4 @@ A list by Jameson lopp: https://www.lopp.net/bitcoin-information/other-layers.ht
 #Mint Layer 
 
 1-https://www.mintlayer.org/
-
-#DefiChain
-
-1-https://defichain.com/
 

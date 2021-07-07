@@ -28,6 +28,10 @@ A list by Jameson lopp: https://www.lopp.net/bitcoin-information/other-layers.ht
 
 1-https://gist.github.com/RubenSomsen/7ecf7f13dc2496aa7eed8815a02f13d1
 
+#PoS Bitcoin Sidechain 
+
+1-https://gist.github.com/mappum/da11e37f4e90891642a52621594d03f6
+
 #Space Chains (one way peg or mass user movement to a new chain)
 
 1-https://medium.com/@RubenSomsen/21-million-bitcoins-to-rule-all-sidechains-the-perpetual-one-way-peg-96cb2f8ac302
@@ -41,6 +45,9 @@ A list by Jameson lopp: https://www.lopp.net/bitcoin-information/other-layers.ht
 2-https://bitcointalk.org/index.php?topic=5344020.0
 
 3-https://github.com/raymaot/Gazin
+
+
+Other related 
 
 #elments 
 

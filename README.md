@@ -38,6 +38,11 @@ A list by Jameson lopp: https://www.lopp.net/bitcoin-information/other-layers.ht
 
 2-https://youtu.be/IpHNuohhSFk
 
+
+#Dexchain
+
+1-https://gist.github.com/jaybny/45f34c90bd1b28cbac9592fab504c454
+
 #Sabu
 
 1-https://raymo-49157.medium.com/time-to-boost-bitcoin-circulation-million-transactions-per-second-and-privacy-1eef8568d180
